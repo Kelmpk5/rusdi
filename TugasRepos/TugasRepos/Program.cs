@@ -8,6 +8,7 @@ namespace TugasRepos
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Pemrograman Lanjut");
+            Console.WriteLine("Materi Praktikum GIT");
         }
     }
 }
