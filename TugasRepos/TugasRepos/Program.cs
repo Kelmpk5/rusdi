@@ -9,6 +9,7 @@ namespace TugasRepos
             Console.WriteLine("Hello World!");
             Console.WriteLine("Pemrograman Lanjut");
             Console.WriteLine("Materi Praktikum GIT");
+            Console.WriteLine("Nama : Rusdi Alam Syah");
         }
     }
 }
